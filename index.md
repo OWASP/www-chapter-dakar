@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Dakar (Senegal)
+title: OWASP Dakar
 tags: chapter-Dakar
 region: Africa
 meetup-group:
