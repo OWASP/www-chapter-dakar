@@ -1,9 +1,10 @@
 ---
-title: Équipe et organisation
-layout:  null
+title: Team and Organization
+layout: null
 tab: true
 order: 1
-tags: chapitre-Dakar
+tags: chapter-dakar
+
 ---
 
 ## Example
