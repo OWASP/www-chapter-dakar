@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Dakar
 tags: chapter-Dakar
 region: Africa
-meetup-group: null
+meetup-group:
 
 ---
 <a href="https://20thanniversary.owasp.org/"><img src="assets/images/OWASP-DAKAR-2.png" style="width: auto; height: auto;" alt="OWASP 20th Anniversary"/></a>
