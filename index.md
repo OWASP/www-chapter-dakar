@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Dakar
-tags: chapter-Dakar
+tags: chapter-dakar
 region: Africa
 meetup-group:
 
