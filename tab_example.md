@@ -1,6 +1,6 @@
 ---
 title: example
-displaytext: Team and Organization
+display-text: Team and Organization
 layout: null
 tab: true
 order: 1
